@@ -1,1 +1,1 @@
-secrets/* filter=git-crypt-apn diff=git-crypt-apn
+secrets/* filter=git-crypt-apn2 diff=git-crypt-apn2
